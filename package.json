@@ -1,0 +1,19 @@
+{
+  "name": "inspection-portal",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "typescript": "^4.5.0"
+  }
+}
